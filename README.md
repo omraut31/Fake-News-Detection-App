@@ -85,11 +85,11 @@ The datasets are combined and labeled:
 
 
 ### **True News Prediction**  
-![True News Prediction](<img width="1919" height="907" alt="Screenshot 2025-08-25 132257" src="https://github.com/user-attachments/assets/164cedc3-959d-4e22-9867-941b2f1f573e" />
+![True News Prediction](<screenshots/true.png.png>
 )
 
 ### **Fake News Prediction**  
-![Fake News Prediction](<img width="1919" height="969" alt="Screenshot 2025-08-25 131932" src="https://github.com/user-attachments/assets/5a84793e-dfa3-42f4-86b7-fe2692e3be07" />
+![Fake News Prediction](<screenshots/fake.png.png>
 )
 
 
